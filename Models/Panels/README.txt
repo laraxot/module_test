@@ -1,0 +1,1 @@
+The model's panels. Started from Laravel Nova, and after a bit modified (see Laravel Nova docs)

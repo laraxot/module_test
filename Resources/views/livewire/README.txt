@@ -1,0 +1,1 @@
+Module's Livewire components views

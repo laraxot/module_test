@@ -1,0 +1,1 @@
+Routes are Laravel defined where url points (usually controllers or views)

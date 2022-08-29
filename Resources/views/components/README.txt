@@ -1,0 +1,1 @@
+Module's Laravel components views

@@ -1,0 +1,2 @@
+Page routes without associated models (the route will be domain/lang/page_name. page_name is the blade name in this folder. Uses Blog/Pages model to make routes)
+Instead to associate routes with models use /laravel/config/domain/morph_map.php
